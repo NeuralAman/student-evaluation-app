@@ -1,0 +1,8 @@
+streamlit~=1.32.0
+openai~=1.25.0
+PyMuPDF
+python-docx
+Pillow~=10.3.0
+pytesseract~=0.3.10
+
+python-dotenv~=1.0.1

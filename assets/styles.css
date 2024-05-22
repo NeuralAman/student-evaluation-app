@@ -1,0 +1,12 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    color: #4CAF50;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+}
